@@ -1,0 +1,39 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1-6;
+    background-color: wheat;
+    color: Black;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+h2{
+    color: #b3b3b3;
+    margin-top: 30px;
+}
+img{
+    display: block;
+    width: 85%;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+ol{
+    padding-left: 20px;
+}
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+em {
+    font-weight: bold;
+    color: #333;
+}
